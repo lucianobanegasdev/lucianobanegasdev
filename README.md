@@ -37,7 +37,7 @@ I am a freelance developer who understands both **clean code** and **high-end de
 
 <div align="center">
   <img src="https://github-readme-stats-nine-sage-30.vercel.app/api?username=lucianobanegasdev&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1520&v=2" alt="Luciano's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-nine-sage-30.vercel.app/api/top-langs/?username=lucianobanegasdev&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1520&v=2" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-nine-sage-30.vercel.app/api/top-langs/?username=lucianobanegasdev&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1520&v=2" alt="Top Languages" width="38%" />
 </div>
 
 <br>
