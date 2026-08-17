@@ -6,7 +6,7 @@
   
   <a href="https://lucho.lol/"><img src="https://img.shields.io/badge/Portfolio-080C14?style=for-the-badge&logo=Google-chrome&logoColor=00D4FF" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/luciano-banegas-3309aa409/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/lucianooo_b"><img src="https://img.shields.io/badge/Twitter_/_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://x.com/luchodev_"><img src="https://img.shields.io/badge/Twitter_/_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
   <a href="mailto:hola@lucho.lol"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=lucianobanegasdev&color=00D4FF&style=for-the-badge" alt="Profile Views" />
 </div>
